@@ -1,0 +1,9 @@
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\bin\Debug\AbsensiRFID.exe
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\bin\Debug\AbsensiRFID.pdb
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\obj\x86\Debug\AbsensiRFID.MainForm.resources
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\obj\x86\Debug\AbsensiRFID.Properties.Resources.resources
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\obj\x86\Debug\AbsensiRFID.exe
+D:\Belajar C#\AbsensiRFID\AbsensiRFID\obj\x86\Debug\AbsensiRFID.pdb

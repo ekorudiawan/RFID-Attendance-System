@@ -1,0 +1,33 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+dataSerial                                                        0x034D      17
+dataRFID                                                          0x035E      12
+dataAsciiRFID                                                     0x036A      12
+password                                                          0x0376       5
+namaUser                                                          0x037B      10
+nomorPin                                                          0x0385      10
+id1                                                               0x038F      12
+id2                                                               0x039B      12
+id3                                                               0x03A7      12
+id4                                                               0x03B3      12
+id5                                                               0x03BF      12
+_base_y                                                           0x03CB       4
+_lcd_x                                                            0x03CF       1
+_lcd_y                                                            0x03D0       1
+_lcd_maxx                                                         0x03D1       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+countDataRFID                                                     R3,R4        2
+dataComplete                                                      GPIOR0.0  1bit
+counter                                                           R5,R6        2
+i                                                                 R7,R8        2
+j                                                                 R9,R10       2
+k                                                                 R11,R12      2
+noUser                                                            R13,R14      2
